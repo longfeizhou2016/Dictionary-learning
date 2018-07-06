@@ -1,6 +1,6 @@
 # Dictionary-learning
-A simple example of dictionary learning
-Main.m  is the main function
-Mod.m is the iterator function
-Omp.m is a simple implementation of the omp method
-ksvd.m is  a simple implementation of the ksvd method
+A simple example of dictionary learning</br>
+Main.m  is the main function</br>
+Mod.m is the iterator function</br>
+Omp.m is a simple implementation of the omp method</br>
+ksvd.m is  a simple implementation of the ksvd method</br>
