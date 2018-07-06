@@ -1,4 +1,9 @@
-
+%   @Function: Dictionary learning & MOD 
+%   Iterator of OMP and kSVD
+%   @CreateTime: 2018-07-06  
+%   @Author: Longfei Zhou 
+%   @https://github.com/longfeizhou2016/Dictionary-learning  
+%  
 function [ D , X ] = MOD( Y ,K ,ErrorThreshold,dict_size )  
 %MOD Summary of this function goes here  
 %   Detailed explanation goes here  

@@ -1,3 +1,9 @@
+%   @Function: Dictionary learning & KSVD 
+%   this function is a simple implementation of the ksvd method
+%   @CreateTime: 2018-07-06  
+%   @Author: Longfei Zhou 
+%   @https://github.com/longfeizhou2016/Dictionary-learning  
+
 function [ X ] = OMP( Y,D,K )  
 % Y is the sample data to be recovered M*P  
 % D is the dictionary M*N  

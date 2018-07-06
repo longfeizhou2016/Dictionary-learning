@@ -1,3 +1,10 @@
+%   @Function: Dictionary learning & KSVD 
+%   this function is a simple implementation of the KSVD method
+%   @CreateTime: 2018-07-06  
+%   @Author: Longfei Zhou 
+%   @https://github.com/longfeizhou2016/Dictionary-learning  
+%  
+
 function [ D,W ] = ksvd( Y, D, W )
 %KSVD 此处显示有关此函数的摘要
 for i = 1:size(D,2)
